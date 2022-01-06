@@ -1,0 +1,23 @@
+header, main {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+h1 {
+    font-size: 50px;
+    color: rgb(224, 164, 0);
+}
+
+button {
+    padding: 3px;
+    width: 100px;
+    border-radius: 5px;
+}
+#turnOn {
+    background-color:white;
+    color: black;
+}
+#turnOff {
+    background-color: black;
+    color: white;
+}
